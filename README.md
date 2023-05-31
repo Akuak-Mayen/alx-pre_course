@@ -1,1 +1,2 @@
-my first reade
+my first readme
+update
